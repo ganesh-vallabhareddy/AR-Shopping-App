@@ -91,9 +91,9 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
 - Stable Internet connection.
 ## How to run the code
 
-1) Download the zip file or clone the repository
-2) Run the command "flutter pub get"
-3) Start debugging the application on a physical device
+1) Download the zip file or clone the repository.
+2) Run the command `flutter pub get`.
+3) Start debugging the application on a physical device.
 
 ### How to use the app
 

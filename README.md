@@ -19,12 +19,12 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
 
 &nbsp;
 
-- Product catalog to list different products.
+- Home Page.
       
 <table>
   <tr>
-    <td>Product Catalog</td>
-     <td>Product Catalog</td>
+    <td>Home Screen</td>
+     <td>Home Screen</td>
   </tr>
   <tr>
     <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/515ed4d1-3d49-4c7a-a06f-7f54ac46e68f.jpg" width="150" height="280"></td>
@@ -97,8 +97,8 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
      <td>Settings</td>
   </tr>
   <tr>
-    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/3470c87d-d073-40f9-bd08-404cbe26fe4f.jpg" width="150" height="280"></td>
-    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/a9c11bb4-121f-41d6-9bd9-98bc0ce12178.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/3470c87d-d073-40f9-bd08-404cbe26fe4f.jpg" width="150" height="300"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/a9c11bb4-121f-41d6-9bd9-98bc0ce12178.jpg" width="150" height="300"></td>
   </tr>
  </table>
  

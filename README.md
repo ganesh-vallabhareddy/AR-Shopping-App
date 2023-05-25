@@ -64,6 +64,25 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
   </tr>
  </table>
  
+  &nbsp;
+  
+  - Specific Category Pages 
+
+<table>
+  <tr>
+    <td>Category 1</td>
+    <td>Category 2</td>
+    <td>Category 3</td>
+    <td>Category 4</td>
+  </tr>
+  <tr>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/0cd89556-dcd8-40c8-9420-992f44c11d73.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/567fb6ea-2e1b-494e-a26c-369837826bf9.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/1f4175ff-6189-46eb-93d0-ca792813c358.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/daac8b05-b6a8-4573-8323-30d29078c42d.jpg" width="150" height="280"></td>
+  </tr>
+ </table>
+ 
  &nbsp;
  
  - Notification & Wishlist Page
@@ -83,8 +102,25 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
  
  - Menu Screen
  
- img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/6e680401-ab2d-4b13-baa3-cb0e1798f712.jpg" width="150" height="280"
+ <img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/6e680401-ab2d-4b13-baa3-cb0e1798f712.jpg" width="150" height="280">
+ 
+  &nbsp;
+  
+  - Edit Profile & Settings Page
 
+<table>
+  <tr>
+    <td>Edit Profile</td>
+     <td>Settings</td>
+  </tr>
+  <tr>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/3470c87d-d073-40f9-bd08-404cbe26fe4f.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/a9c11bb4-121f-41d6-9bd9-98bc0ce12178.jpg" width="150" height="280"></td>
+  </tr>
+ </table>
+ 
+   &nbsp; 
+   
 - Detailed Description of a particular product page.
 
 <table>

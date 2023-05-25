@@ -176,6 +176,7 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
 
 - Smartphone with "**Google Play services for AR**"  support.
 - Stable Internet connection.
+
 ## How to run the code
 
 1) Download the zip file or clone the repository.
@@ -185,11 +186,10 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
 ### How to use the app
 
 1) Install the app on your smartphone.
-2) Open the app and go through the splash screens.
-3) Sign up if you are a new user or login if you already have an account.
-4) Browse the product catalog and select a product.
-5) View complete product details page.
-6) Use virtual try-on option to see how the product looks on you or in your real-life environment.
-7) Add the product to the cart if you like it.
-8) View all the added items in the cart page.
-9) Proceed to checkout and complete the purchasing process by making the payment
+2) Sign up if you are a new user or login if you already have an account.
+3) Browse the product catalog and select a product.
+4) View complete product details page.
+5) Use virtual try-on option to see how the product looks on you or in your real-life environment.
+6) Add the product to the cart if you like it.
+7) View all the added items in the cart page.
+8) Proceed to checkout and complete the purchasing process by making the payment

@@ -3,23 +3,6 @@
 Augmented Reality Shopping App is a innovative and user-friendly shopping app that leverages augmented reality technology to provide customers with a more immersive and engaging shopping experience. The app allows customers to use their smartphone camera to see how products would look in their homes or on their bodies before making a purchase.
 
 ## Features
-
-- Splash screens for introduction about the app.
-
-<table>
-  <tr>
-    <td>Splash Screen 1</td>
-     <td>Splash Screen 2</td>
-     <td>Splash Screen 3</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227733503-a6057519-6bea-490b-9a6e-8c59b783ce8c.jpg" width="150" height="280"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227733620-057eae40-95dc-45f8-a28b-32a75ace32fa.jpg" width="150" height="280"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227733627-8a6d5320-03c2-4a5d-b898-1f150521abde.jpg" width="150" height="280"></td>
-  </tr>
- </table>
- 
- &nbsp;
  
 - Login feature.
 <table>
@@ -129,8 +112,8 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
      <td>Sample Product Details 2</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227734129-aea22cd9-4824-480b-9c5b-b8097858c215.jpg" width="150" height="280"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227734136-d95faaf8-be3c-4f6c-90dc-7e5fd3b94425.jpg" width="150" height="280"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/4a4c6862-a02b-4eec-bd39-13901e458675.jpg" width="150" height="280"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/6cc9c9a0-ff2e-4484-bb37-cb48112fb2a7.jpg" width="150" height="280"></td>
   </tr>
  </table>
 
@@ -145,19 +128,19 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
 
  <table>
   <tr>
-    <td>Add Product to Cart 1</td>
-     <td>Add Product to Cart 2</td>
+    <td>Add Product1 to Cart </td>
+     <td>Add Product2 to Cart </td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227734334-1d60603d-f132-4354-b2c7-7c8c94197a39.jpg" width="150" height="280"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/110174850/227734339-6196f644-c66a-46de-bd42-3a8559a14680.jpg" width="150" height="280"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/8367b797-86a2-46a6-9ea7-69225087124a.jpg" width="150" height="280"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/f4fcf0d7-6495-4309-ba99-54abcabf0c32.jpg" width="150" height="280"></td>
   </tr>
  </table>
  
  &nbsp;
  
 - Cart page to view added items.
-<img src="https://user-images.githubusercontent.com/110174850/227734468-33439398-5263-4ed6-a84f-e4e5db36ae95.jpg" width="150" height="280">
+<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/f54d7a24-2187-4a80-9002-8e591538a6a7.jpg" width="150" height="280">
 
 &nbsp;
 

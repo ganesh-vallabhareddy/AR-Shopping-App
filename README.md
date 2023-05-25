@@ -44,12 +44,46 @@ Augmented Reality Shopping App is a innovative and user-friendly shopping app th
      <td>Product Catalog</td>
   </tr>
   <tr>
-    <td valign="top"><<img src="https://user-images.githubusercontent.com/110174850/227733881-bd81603b-fed7-4dba-b6b2-f8e77041fb11.jpg" width="150" height="280"></td>
-    <td valign="top"><<img src="https://user-images.githubusercontent.com/110174850/227733905-f1937b0b-0251-4efb-9757-9448a51252f1.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/515ed4d1-3d49-4c7a-a06f-7f54ac46e68f.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/86d5a702-2a60-4f94-9e3b-5deebb7aaca3.jpg" width="150" height="280"></td>
   </tr>
  </table>
 
 &nbsp;
+
+- Categories Page
+
+<table>
+  <tr>
+    <td>Categories</td>
+     <td>Categories</td>
+  </tr>
+  <tr>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/3c31c6d3-f86e-480a-bad9-ec8c324ab59b.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/24082202-6e53-440c-8232-1ee97a6fa8bf.jpg" width="150" height="280"></td>
+  </tr>
+ </table>
+ 
+ &nbsp;
+ 
+ - Notification & Wishlist Page
+
+<table>
+  <tr>
+    <td>Notification</td>
+     <td>Wishlist</td>
+  </tr>
+  <tr>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/d777239d-998b-42b0-bd6a-a1a4e30dd0c1.jpg" width="150" height="280"></td>
+    <td valign="top"><<img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/a9fbbc74-5985-4fd1-b901-a19b5d909338.jpg" width="150" height="280"></td>
+  </tr>
+ </table>
+ 
+ &nbsp;
+ 
+ - Menu Screen
+ 
+ img src="https://github.com/ganesh-vallabhareddy/AR-Shopping-App/assets/110174850/6e680401-ab2d-4b13-baa3-cb0e1798f712.jpg" width="150" height="280"
 
 - Detailed Description of a particular product page.
 
